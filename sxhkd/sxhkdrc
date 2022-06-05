@@ -11,7 +11,7 @@ super + Return
         kitty
 # program launcher
 super + d
-        ~/.config/rofi/launchers/text/launcher.sh
+        ~/.config/rofi/launchers/colorful/launcher.sh
 # powermenu launcher
 super + k
         ~/.config/rofi/applets/android/powermenu.sh 
