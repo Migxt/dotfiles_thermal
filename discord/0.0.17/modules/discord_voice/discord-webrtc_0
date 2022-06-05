@@ -1427,3 +1427,309 @@ Render pre processor: 0
 [2022-06-05 01:12:38.271] [8514] (device_info_linux.cc:45): NumberOfDevices
 [2022-06-05 01:12:41.274] [8514] (device_info_linux.cc:45): NumberOfDevices
 [2022-06-05 01:12:44.277] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:12:47.281] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:12:50.284] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:12:53.287] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:12:56.291] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:12:59.294] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:02.297] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:05.301] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:08.304] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:11.307] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:14.312] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:17.314] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:20.317] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:23.321] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:26.324] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:29.327] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:32.331] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:35.334] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:38.337] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:41.341] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:44.344] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:47.347] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:50.351] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:53.354] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:56.357] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:13:59.361] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:02.364] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:05.367] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:08.371] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:11.374] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:14.377] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:17.381] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:20.384] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:23.387] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:26.391] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:29.394] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:32.397] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:35.401] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:38.404] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:41.407] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:44.411] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:47.414] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:50.417] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:53.421] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:56.424] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:14:59.427] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:02.430] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:05.434] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:08.437] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:11.441] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:14.444] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:17.447] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:20.451] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:23.454] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:26.457] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:29.461] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:32.464] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:35.467] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:38.471] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:41.474] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:44.477] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:47.481] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:50.484] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:53.487] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:56.491] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:15:59.494] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:02.497] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:05.501] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:08.504] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:11.507] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:14.511] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:17.514] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:20.517] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:23.518] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:26.521] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:29.524] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:32.527] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:35.531] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:38.534] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:41.537] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:44.541] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:47.544] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:50.547] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:53.551] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:56.554] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:16:59.558] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:02.561] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:05.564] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:08.567] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:11.571] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:14.575] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:17.577] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:20.581] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:23.584] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:26.587] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:28.485] [8493] (discord.cpp:551): JS console: ["%c[MessageStore]","Message was missing an author!"]
+[2022-06-05 01:17:29.591] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:32.594] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:35.597] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:38.601] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:41.604] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:44.607] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:47.611] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:50.614] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:53.618] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:56.621] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:17:59.624] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:02.627] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:05.631] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:08.634] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:11.637] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:14.641] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:17.644] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:20.647] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:23.650] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:26.653] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:29.654] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:32.657] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:35.660] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:38.664] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:41.667] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:44.671] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:47.674] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:50.677] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:53.681] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:53.716] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[WS CLOSED] (true, 4003, Not authenticated.) retrying in 1.25 seconds."]
+[2022-06-05 01:18:54.953] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zlib-stream"]
+[2022-06-05 01:18:55.965] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zlib-stream in 1012 ms"]
+[2022-06-05 01:18:55.966] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[RESUME] resuming session c7df4a75949df024a63a6e77355570ba, seq: 4720"]
+[2022-06-05 01:18:55.975] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[HELLO] via [\"gateway-prd-main-jbsr\",{\"micros\":0.0}], heartbeat interval: 41250, took 1021 ms"]
+[2022-06-05 01:18:56.147] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[INVALID_SESSION]"]
+[2022-06-05 01:18:56.150] [8493] (discord.cpp:551): JS console: ["%c[ConnectionStore]","handleIdentify called","[object Object]"]
+[2022-06-05 01:18:56.152] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[IDENTIFY]"]
+[2022-06-05 01:18:56.436] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[WS CLOSED] because of authentication failure, marking as closed."]
+[2022-06-05 01:18:56.440] [8493] (discord.cpp:551): JS console: ["%c[GatewaySocket]","[RESET] (true, 4004, Authentication failed.)"]
+[2022-06-05 01:18:56.445] [8493] (discord.cpp:551): JS console: ["%c[AuthenticationStore]","handleConnectionClosed called with code 4004.","[object Object]"]
+[2022-06-05 01:18:56.451] [8493] (discord.cpp:551): JS console: ["%c[AuthenticationStore]","handleLogout called.","[object Object]"]
+[2022-06-05 01:18:56.453] [8493] (discord.cpp:551): JS console: ["%c[AuthenticationStore]","removeAuthToken called.","[object Object]"]
+[2022-06-05 01:18:56.684] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:18:59.370] [8493] (discord.cpp:551): JS console: ["%c[Flux]","Slow batch emitChanges took 2768ms recentActions:","CONNECTION_CLOSED"]
+[2022-06-05 01:18:59.371] [8493] (discord.cpp:551): JS console: ["%c[Flux]","Slow dispatch on CONNECTION_CLOSED: 2930ms"]
+[2022-06-05 01:18:59.627] [8493] (discord.cpp:551): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /login"]
+[2022-06-05 01:18:59.687] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:02.691] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:05.694] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:08.697] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:11.701] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:14.704] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:17.707] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:20.711] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:23.714] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:26.717] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:29.721] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:32.724] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:35.727] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:38.731] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:41.734] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:44.737] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:47.741] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:50.744] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:53.747] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:56.751] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:19:59.754] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:02.757] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:05.761] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:08.764] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:11.767] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:14.771] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:17.774] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:20.777] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:23.781] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:26.784] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:29.787] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:32.791] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:35.794] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:38.797] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:41.801] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:44.804] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:47.807] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:50.811] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:53.814] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:56.817] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:20:59.821] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:02.824] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:05.827] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:08.831] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:11.834] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:14.837] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:17.841] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:20.844] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:23.847] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:26.851] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:29.855] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:32.857] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:35.860] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:38.864] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:41.867] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:44.871] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:47.874] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:50.877] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:53.881] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:56.884] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:21:59.386] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=1"]
+[2022-06-05 01:21:59.877] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[494ms] got hello, auth timeout=126662ms"]
+[2022-06-05 01:21:59.887] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:00.100] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[715ms] connected, handshaking with fingerprint: iuOWabfHcwPi_2L-J4xdwY8u-d0qtbW9z5aPyqW8uHU"]
+[2022-06-05 01:22:00.283] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[898ms] computed nonce proof"]
+[2022-06-05 01:22:00.464] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[1081ms] handshake complete awaiting remote auth."]
+[2022-06-05 01:22:02.891] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:05.894] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:08.897] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:11.901] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:14.904] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:17.907] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:20.911] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:23.914] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:26.917] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:29.921] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:32.924] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:35.927] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:38.931] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:41.934] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:44.937] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:47.941] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:50.944] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:53.947] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:56.951] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:22:59.954] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:02.957] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:05.961] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:08.964] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:11.967] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:14.971] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:17.974] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:20.977] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:23.981] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:26.984] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:29.987] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:32.991] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:35.994] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:38.997] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:42.001] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:45.004] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:48.007] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:51.011] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:54.014] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:23:57.017] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:00.021] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:03.024] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:06.027] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:06.696] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[127305ms] disconnected, code: 4003 Handshake Timeout"]
+[2022-06-05 01:24:08.637] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[129252ms] cleaning up"]
+[2022-06-05 01:24:08.646] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=1"]
+[2022-06-05 01:24:08.968] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[327ms] got hello, auth timeout=116672ms"]
+[2022-06-05 01:24:09.031] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:09.256] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[615ms] connected, handshaking with fingerprint: C8PCpbpnosUAzlygWYIj1MxZQeQA2gA4v_GUTkwuc9Y"]
+[2022-06-05 01:24:09.444] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[801ms] computed nonce proof"]
+[2022-06-05 01:24:09.621] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[979ms] handshake complete awaiting remote auth."]
+[2022-06-05 01:24:12.034] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:15.037] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:18.041] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:21.044] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:24.047] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:27.051] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:30.054] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:33.057] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:36.061] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:39.064] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:42.067] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:45.071] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:48.074] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:51.077] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:54.081] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:24:57.085] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:00.087] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:03.091] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:06.094] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:09.097] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:12.101] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:15.104] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:18.107] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:21.111] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:24.114] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:27.117] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:30.121] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:33.124] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:36.127] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:39.130] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:42.134] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:45.137] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:48.141] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:51.144] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:54.147] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:25:57.151] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:26:00.154] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:26:03.157] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:26:05.641] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[116996ms] disconnected, code: 4003 Handshake Timeout"]
+[2022-06-05 01:26:06.160] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:26:07.161] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[118519ms] cleaning up"]
+[2022-06-05 01:26:07.173] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=1"]
+[2022-06-05 01:26:07.513] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[350ms] got hello, auth timeout=141450ms"]
+[2022-06-05 01:26:07.606] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[444ms] connected, handshaking with fingerprint: fLkQJ_mwOh7lHlp6Z2JxfpXEOqaRGfjqgGAexi0_5UA"]
+[2022-06-05 01:26:07.807] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[645ms] computed nonce proof"]
+[2022-06-05 01:26:07.985] [8493] (discord.cpp:551): JS console: ["%c[LoginQRSocket]","[824ms] handshake complete awaiting remote auth."]
+[2022-06-05 01:26:09.164] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:26:12.167] [8514] (device_info_linux.cc:45): NumberOfDevices
+[2022-06-05 01:26:15.171] [8514] (device_info_linux.cc:45): NumberOfDevices
