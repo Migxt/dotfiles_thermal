@@ -1,6 +1,0 @@
-2022/06/04-08:31:08.334 ad7e Reusing MANIFEST /home/xmig/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/06/04-08:31:08.335 ad7e Recovering log #4
-2022/06/04-08:31:08.400 ad7e Reusing old log /home/xmig/.config/discord/Local Storage/leveldb/000004.log 
-2022/06/04-13:33:37.387 ada8 Level-0 table #8: started
-2022/06/04-13:33:37.468 ada8 Level-0 table #8: 21224 bytes OK
-2022/06/04-13:33:37.587 ada8 Delete type=0 #4
