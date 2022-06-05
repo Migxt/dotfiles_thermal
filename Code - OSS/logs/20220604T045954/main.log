@@ -1,5 +1,0 @@
-[2022-06-04 04:59:56.069] [main] [info] window#load: attempt to load window (id: 1)
-[2022-06-04 04:59:56.306] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-06-04 04:59:56.913] [main] [info] ExtensionHostStarterWorker created
-[2022-06-04 04:59:57.741] [main] [warning] [storage main] detected slow close() operation: Time: 776ms, DB size: 32768b, Large Keys: memento/workbench.editors.files.textFileEditor:2746, workbench.view.extensions.state:1811, __$__targetStorageMarker:1238, history.entries:773, memento/workbench.parts.editor:611
-[2022-06-04 04:59:57.807] [main] [warning] [storage main] detected slow close() operation: Time: 848ms, DB size: 159744b, Large Keys: iconThemeData:88806, colorThemeData:8945, workbench.activity.placeholderViewlets:2798, editorFontInfo:2202, workbench.view.extensions.state.hidden:1525

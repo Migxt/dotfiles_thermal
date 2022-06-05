@@ -1,7 +1,0 @@
-[2022-06-04 07:09:24.292] [renderer1] [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {}
-[2022-06-04 07:14:24.272] [renderer1] [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {}
-[2022-06-04 07:14:24.275] [renderer1] [error] Error: XHR failed
-    at XMLHttpRequest.S.onerror (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:83:27625)
-[2022-06-04 07:45:56.409] [renderer1] [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {}
-[2022-06-04 07:45:56.409] [renderer1] [error] Error: XHR failed
-    at XMLHttpRequest.S.onerror (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:83:27625)
