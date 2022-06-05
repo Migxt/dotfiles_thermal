@@ -1,0 +1,18 @@
+[2022-06-03 22:35:03.834] [exthost] [info] Extension host with pid 8069 started
+[2022-06-03 22:35:03.834] [exthost] [info] Skipping acquiring lock for /home/xmig/.config/Code - OSS/User/workspaceStorage/163c490d5c4b280fcb430b2407ada11f.
+[2022-06-03 22:35:04.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-03 22:35:04.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-03 22:35:04.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-03 22:35:04.146] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-06-03 22:35:04.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-03 22:35:04.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-03 22:35:04.548] [exthost] [info] Eager extensions activated
+[2022-06-03 22:35:04.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-03 22:35:04.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-03 22:35:04.735] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-03 22:35:04.760] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-03 22:35:38.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-03 22:35:38.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-03 22:35:38.424] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-03 22:38:53.737] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-03 22:38:53.772] [exthost] [info] Extension host with pid 8069 exiting with code 0

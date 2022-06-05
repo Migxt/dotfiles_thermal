@@ -1,0 +1,81 @@
+[2022-06-04T11:33:18.068Z] Validating found git in: git
+[2022-06-04T11:33:18.099Z] Using git 2.36.1 from git
+[2022-06-04T11:33:18.122Z] > git rev-parse --show-toplevel [7ms]
+[2022-06-04T11:33:18.146Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-06-04T11:33:18.164Z] Open repository: /home/xmig/.local/share/nvim/site/pack/packer/opt/base46
+[2022-06-04T11:33:18.308Z] > git status -z -uall [126ms]
+[2022-06-04T11:33:18.346Z] > git symbolic-ref --short HEAD [29ms]
+[2022-06-04T11:33:18.357Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-06-04T11:33:18.388Z] > git remote --verbose [8ms]
+[2022-06-04T11:33:18.389Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+[2022-06-04T11:33:18.410Z] > git config --get commit.template [4ms]
+[2022-06-04T11:33:18.715Z] > git check-ignore -v -z --stdin [5ms]
+[2022-06-04T11:33:18.762Z] > git show --textconv :lua/hl_themes/pseudo.lua [17ms]
+[2022-06-04T11:33:18.765Z] > git ls-files --stage -- /home/xmig/.local/share/nvim/site/pack/packer/opt/base46/lua/hl_themes/pseudo.lua [6ms]
+[2022-06-04T11:33:18.779Z] > git cat-file -s 31e8f25c295d9710832536809e7b61e028f303ce [3ms]
+[2022-06-04T11:33:33.541Z] > git status -z -uall [4ms]
+[2022-06-04T11:33:33.550Z] > git symbolic-ref --short HEAD [2ms]
+[2022-06-04T11:33:33.557Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-06-04T11:33:33.566Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-06-04T11:33:33.567Z] > git remote --verbose [2ms]
+[2022-06-04T11:33:33.576Z] > git config --get commit.template [2ms]
+[2022-06-04T11:46:05.430Z] > git status -z -uall [5ms]
+[2022-06-04T11:46:05.444Z] > git symbolic-ref --short HEAD [4ms]
+[2022-06-04T11:46:05.461Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-06-04T11:46:05.493Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+[2022-06-04T11:46:05.497Z] > git remote --verbose [8ms]
+[2022-06-04T11:46:05.512Z] > git config --get commit.template [3ms]
+[2022-06-04T11:46:39.597Z] > git status -z -uall [12ms]
+[2022-06-04T11:46:39.624Z] > git symbolic-ref --short HEAD [6ms]
+[2022-06-04T11:46:39.636Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-06-04T11:46:39.653Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-06-04T11:46:39.654Z] > git remote --verbose [3ms]
+[2022-06-04T11:46:39.667Z] > git config --get commit.template [2ms]
+[2022-06-04T11:48:04.961Z] > git rev-parse --show-toplevel [11ms]
+[2022-06-04T11:48:04.961Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-04T11:48:07.810Z] > git show --textconv :lua/hl_themes/pseudo.lua [12ms]
+[2022-06-04T11:48:07.814Z] > git ls-files --stage -- /home/xmig/.local/share/nvim/site/pack/packer/opt/base46/lua/hl_themes/pseudo.lua [6ms]
+[2022-06-04T11:48:07.831Z] > git cat-file -s 31e8f25c295d9710832536809e7b61e028f303ce [4ms]
+[2022-06-04T11:48:12.762Z] > git status -z -uall [5ms]
+[2022-06-04T11:48:12.776Z] > git symbolic-ref --short HEAD [2ms]
+[2022-06-04T11:48:12.785Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-06-04T11:48:12.798Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-06-04T11:48:12.798Z] > git remote --verbose [2ms]
+[2022-06-04T11:48:12.810Z] > git config --get commit.template [1ms]
+[2022-06-04T11:49:33.947Z] > git rev-parse --show-toplevel [9ms]
+[2022-06-04T11:49:33.947Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-04T11:49:37.180Z] > git show --textconv :lua/hl_themes/pseudo.lua [9ms]
+[2022-06-04T11:49:37.181Z] > git ls-files --stage -- /home/xmig/.local/share/nvim/site/pack/packer/opt/base46/lua/hl_themes/pseudo.lua [2ms]
+[2022-06-04T11:49:37.190Z] > git cat-file -s 31e8f25c295d9710832536809e7b61e028f303ce [2ms]
+[2022-06-04T11:49:42.855Z] > git rev-parse --show-toplevel [7ms]
+[2022-06-04T11:49:42.855Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-04T11:49:47.455Z] > git show --textconv :lua/hl_themes/pseudo.lua [7ms]
+[2022-06-04T11:49:47.457Z] > git ls-files --stage -- /home/xmig/.local/share/nvim/site/pack/packer/opt/base46/lua/hl_themes/pseudo.lua [2ms]
+[2022-06-04T11:49:47.465Z] > git cat-file -s 31e8f25c295d9710832536809e7b61e028f303ce [2ms]
+[2022-06-04T11:49:56.053Z] > git rev-parse --show-toplevel [12ms]
+[2022-06-04T11:49:56.053Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-04T11:49:59.592Z] > git show --textconv :lua/hl_themes/pseudo.lua [9ms]
+[2022-06-04T11:49:59.594Z] > git ls-files --stage -- /home/xmig/.local/share/nvim/site/pack/packer/opt/base46/lua/hl_themes/pseudo.lua [2ms]
+[2022-06-04T11:49:59.605Z] > git cat-file -s 31e8f25c295d9710832536809e7b61e028f303ce [3ms]
+[2022-06-04T11:50:04.965Z] > git rev-parse --show-toplevel [6ms]
+[2022-06-04T11:50:04.965Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-04T11:50:07.662Z] > git show --textconv :lua/hl_themes/pseudo.lua [9ms]
+[2022-06-04T11:50:07.664Z] > git ls-files --stage -- /home/xmig/.local/share/nvim/site/pack/packer/opt/base46/lua/hl_themes/pseudo.lua [3ms]
+[2022-06-04T11:50:07.672Z] > git cat-file -s 31e8f25c295d9710832536809e7b61e028f303ce [2ms]
+[2022-06-04T11:50:10.497Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-04T11:50:10.497Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-04T11:50:20.535Z] > git show --textconv :lua/hl_themes/pseudo.lua [29ms]
+[2022-06-04T11:50:20.541Z] > git ls-files --stage -- /home/xmig/.local/share/nvim/site/pack/packer/opt/base46/lua/hl_themes/pseudo.lua [8ms]
+[2022-06-04T11:50:20.556Z] > git cat-file -s 31e8f25c295d9710832536809e7b61e028f303ce [4ms]
+[2022-06-04T11:55:46.078Z] > git status -z -uall [4ms]
+[2022-06-04T11:55:46.087Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-04T11:55:46.094Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-06-04T11:55:46.112Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-06-04T11:55:46.113Z] > git remote --verbose [4ms]
+[2022-06-04T11:55:46.133Z] > git config --get commit.template [4ms]

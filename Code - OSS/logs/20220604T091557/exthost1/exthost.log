@@ -1,0 +1,15 @@
+[2022-06-04 09:16:02.345] [exthost] [info] Extension host with pid 47708 started
+[2022-06-04 09:16:02.345] [exthost] [info] Skipping acquiring lock for /home/xmig/.config/Code - OSS/User/workspaceStorage/c158eb0cac08577b861f8377f1a5519a.
+[2022-06-04 09:16:02.600] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-04 09:16:02.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-04 09:16:02.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-04 09:16:02.717] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-06-04 09:16:02.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-04 09:16:02.951] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-04 09:16:03.054] [exthost] [info] Eager extensions activated
+[2022-06-04 09:16:03.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-04 09:16:03.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-04 09:16:03.174] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-04 09:16:03.184] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-04 15:45:56.490] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-04 15:45:56.609] [exthost] [info] Extension host with pid 47708 exiting with code 0

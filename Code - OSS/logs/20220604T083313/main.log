@@ -1,0 +1,8 @@
+[2022-06-04 08:33:14.183] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-04 08:33:14.196] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-06-04 08:33:14.242] [main] [info] ExtensionHostStarterWorker created
+[2022-06-04 08:33:16.007] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-04 08:33:16.155] [main] [info] Starting extension host with pid 44769 (fork() took 14 ms).
+[2022-06-04 08:33:16.156] [main] [info] ExtensionHostStarterWorker.start() took 20 ms.
+[2022-06-04 09:07:06.042] [main] [info] Waiting for extension host with pid 44769 to exit.
+[2022-06-04 09:07:06.061] [main] [info] Extension host with pid 44769 exited with code: 0, signal: null.

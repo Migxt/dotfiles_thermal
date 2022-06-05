@@ -1,0 +1,8 @@
+[2022-06-03 22:34:58.189] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-03 22:34:58.202] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-06-03 22:34:58.245] [main] [info] ExtensionHostStarterWorker created
+[2022-06-03 22:35:00.386] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-03 22:35:00.944] [main] [info] Starting extension host with pid 8069 (fork() took 22 ms).
+[2022-06-03 22:35:00.945] [main] [info] ExtensionHostStarterWorker.start() took 25 ms.
+[2022-06-03 22:38:53.760] [main] [info] Waiting for extension host with pid 8069 to exit.
+[2022-06-03 22:38:53.807] [main] [info] Extension host with pid 8069 exited with code: 0, signal: null.
